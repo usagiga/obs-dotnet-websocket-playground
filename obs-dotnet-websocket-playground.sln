@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obs-dotnet-websocket-playground", "obs-dotnet-websocket-playground.csproj", "{261ECFBE-59BE-40E9-A626-956DA6D979EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261ECFBE-59BE-40E9-A626-956DA6D979EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261ECFBE-59BE-40E9-A626-956DA6D979EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261ECFBE-59BE-40E9-A626-956DA6D979EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261ECFBE-59BE-40E9-A626-956DA6D979EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
